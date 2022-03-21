@@ -1,3 +1,7 @@
 Hello World
 eh dont rude ah
+<<<<<<< HEAD
 fly kite sing song 
+=======
+merge conflict test
+>>>>>>> 5c793b7eaa8db9e02f1a5de2661259690a3fa000
